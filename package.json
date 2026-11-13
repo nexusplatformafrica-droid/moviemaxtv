@@ -1,0 +1,9 @@
+{
+  "name": "movie-max-cloud-broadcaster",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Captures Movie Max output webpage and publishes a continuous HLS stream.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
